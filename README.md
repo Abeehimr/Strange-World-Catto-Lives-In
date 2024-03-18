@@ -1,3 +1,4 @@
+![Screenshot-2023-12-06-173022.png](https://imgur.com/LdBdHWi)
 # Strange World Catto Lives In
 
 Welcome to Strange World Catto Lives In! This is a fun and challenging platformer game where you control a cat character through various obstacles and challenges.
