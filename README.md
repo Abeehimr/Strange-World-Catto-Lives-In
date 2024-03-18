@@ -20,9 +20,9 @@ Welcome to Strange World Catto Lives In! This is a fun and challenging platforme
 
 ## Installation
 
-1. Clone this repository to your local machine.
-2. Make sure you have Python and Pygame installed.
-3. Run the game using the command `python main.py`.
+1. DOWNLOAD the specific .exe or .deb from [here](https://github.com/Abeehimr/Strange-World-Catto-Lives-In/releases/tag/v1).
+2. Make sure you have thingis folder extracted in the same directory as this file.
+3. double-click the file and the game will start.
 
 ## Credits
 
