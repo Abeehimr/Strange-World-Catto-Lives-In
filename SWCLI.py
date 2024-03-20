@@ -31,7 +31,7 @@ UNLOCK_AT = [[0,250],[100,500]]
 #background
 def get_background(name):
     """take image and return list of positions to place it"""
-    image = pygame.image.load(join("thingis","Background",name))
+    image = pygame.image.load(join("thingis","Background",name)).convert_alpha()
     _,_,width , height = image.get_rect()
     tiles = []
 
