@@ -44,7 +44,7 @@ def get_background(name):
 def flip(sprites: list) -> list:
     return [pygame.transform.flip(sprite,True,False) for sprite in sprites] #bool: flip in x direction bool: flip in y direction
 
-def load_sp_sheets(dir1:str,dir2:str , width:int, height:int , direction=False , x2 = False) -> dict: 
+def load_sp_sheets(dir1:str,dir2:str , width:int, height:int , direction=False ) -> dict: 
         # load all files
         path = join("thingis",dir1,dir2)
         images = [f for f in listdir(path) if isfile(join(path,f))]
