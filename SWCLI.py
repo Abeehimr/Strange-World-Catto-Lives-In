@@ -88,12 +88,12 @@ try:
     background , bg_image = get_background("Gray.png")
     # load all characters
     SKINS = {
-    "ORANGE":load_sp_sheets("players","orange",96,96,True,False),
-    "CALICO":load_sp_sheets("players","calico",96,96,True,False),
-    "BLUE" :load_sp_sheets("players","blue",96,96,True,False),
-    "NIGGA" : load_sp_sheets("players","nigga",96,96,True,False),
-    "KITLER" :load_sp_sheets("players","kitler",96,96,True,False),
-    "RETARD" : load_sp_sheets("players","retard",96,96,True,False),
+    "ORANGE":load_sp_sheets("players","orange",96,96,True),
+    "CALICO":load_sp_sheets("players","calico",96,96,True),
+    "BLUE" :load_sp_sheets("players","blue",96,96,True),
+    "NIGGA" : load_sp_sheets("players","nigga",96,96,True),
+    "KITLER" :load_sp_sheets("players","kitler",96,96,True),
+    "RETARD" : load_sp_sheets("players","retard",96,96,True),
     }
 
     GATTOS = [get(["thingis","obsticles","cars.png"],96*i,0,96,96, 64,64) for i in range(10)]
