@@ -15,7 +15,7 @@ Welcome to Strange World Catto Lives In! This is a fun and challenging platforme
 
 1. Use the left and right arrow keys to move the cat character.
 2. Press the spacebar to make the cat jump over obstacles.
-3. Dodge cars, avoid clouds, and collect points to increase your score.
+3. Dodge cats thrown by clouds directly at you.
 4. Try to survive as long as possible and beat your high score!
 
 ## Installation
