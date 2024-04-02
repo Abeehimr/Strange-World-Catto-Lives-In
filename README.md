@@ -5,7 +5,7 @@ Welcome to Strange World Catto Lives In! This is a fun and challenging platforme
 ## Features
 
 - **Customizable Skins:** Choose from a variety of cat skins to personalize your gaming experience.
-- **Dynamic Obstacles:** Dodge cars, jump over clouds, and navigate through a constantly changing environment.
+- **Dynamic Obstacles:** Dodge cats thrown by clouds, and survive.
 - **High Score Tracking:** Compete with yourself to achieve the highest score possible.
 - **Unlockable Content:** Unlock new skins and features as you progress through the game.
 - **Pixel-Perfect Collision:** Enjoy accurate collision detection for precise gameplay.
